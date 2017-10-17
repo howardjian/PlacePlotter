@@ -31,6 +31,3 @@ To use this app, you'll need to take the following steps:
 * Add more tests and learn how to introduce the google object to the virtual DOM for testing (currently the `google` object is not available in the `jsdom-global`)
 * Be more organized with my .scss file and split it up into more component-specific files
 * Build a more colorful design!
-
-###### Feedback
-Overall, I really liked this assignment and I had a lot of fun with it!
